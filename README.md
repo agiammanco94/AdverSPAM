@@ -19,8 +19,14 @@ Run the following snippet in a Unix terminal to install adverspam.
 
 ```
 git clone https://github.com/agiammanco94/AdverSPAM
-cd adverspam
+cd AdverSPAM
 pip install -e . 		# install in editable mode  
+```
+
+In order to test the correct installation of the adverspam module, the following example script can be run by opening a Unix terminal in the project root folder and running:
+
+```
+python adverspam/example/toy_example.py
 ```
 
 ### Tested Python and Modules Versions
