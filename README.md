@@ -25,7 +25,7 @@ pip install -e . 		# install in editable mode
 
 ### Tested Python and Modules Versions
 
-The project has been tested with Python v. 3.10.9 on macos v. 10.15.7.
+The project has been tested with Python v. 3.10.9 on macos v. 10.15.7; it has also been tested on Python v. 3.10.6 on Linux Ubuntu 22.04.2 LTS.
 
 The following versions of the additional modules has been tested:
 
@@ -33,3 +33,8 @@ The following versions of the additional modules has been tested:
 - pandas v. 2.0.3
 - scipy v. 1.11.1
 - scikit-learn v. 1.3.0
+
+
+## *Documentation*
+
+Code is documented with both [type hints](https://docs.python.org/3/library/typing.html) and [Google docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
