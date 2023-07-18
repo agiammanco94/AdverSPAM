@@ -23,6 +23,15 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 AdverSPAM follows the general structure of query-limited setting black-box attack adversarial attacks.
 
 
+<p align="center">
+<img src="docs/images/toy_example/fig_1.png" width="300" />
+<img src="docs/images/toy_example/fig_2.png" width="300" />
+<img src="docs/images/toy_example/fig_3.png" width="300" />
+<img src="docs/images/toy_example/fig_4.png" width="300" />
+<img src="docs/images/toy_example/fig_5.png" width="300" />
+</p>
+
+
 <div style="display: flex; justify-content: center;">
     <div style="width: 19.2%;">
         <img src="docs/images/toy_example/fig_1.png"/>
