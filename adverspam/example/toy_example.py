@@ -47,7 +47,6 @@ adversarial_examples, statistics_df = adverspam_attack(surrogate_model=surrogate
                                                        test_x_positive_examples=target_test_positive_examples,
                                                        y_desired=y_desired,
                                                        y_start=y_start,
-                                                       correction_for_correlation_constraints=0,
                                                        desired_ratio_of_included_samples=0.2,
                                                        blocks_of_semantic_dependent_features=
                                                        blocks_of_semantic_dependent_features,
