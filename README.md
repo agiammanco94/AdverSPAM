@@ -24,11 +24,11 @@ AdverSPAM follows the general structure of query-limited setting black-box attac
 
 
 <p align="center">
-<img src="docs/images/toy_example/fig_1.png" width="300" />
-<img src="docs/images/toy_example/fig_2.png" width="300" />
-<img src="docs/images/toy_example/fig_3.png" width="300" />
-<img src="docs/images/toy_example/fig_4.png" width="300" />
-<img src="docs/images/toy_example/fig_5.png" width="300" />
+<img src="docs/images/toy_example/fig_1.png" width="18%" />
+<img src="docs/images/toy_example/fig_2.png" width="18%" />
+<img src="docs/images/toy_example/fig_3.png" width="18%" />
+<img src="docs/images/toy_example/fig_4.png" width="18%" />
+<img src="docs/images/toy_example/fig_5.png" width="18%" />
 </p>
 
 
