@@ -23,42 +23,14 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 AdverSPAM follows the general structure of query-limited setting black-box attack adversarial attacks.
 
 
-<p align="center">
+<div align="center">
 <img src="docs/images/toy_example/fig_1.png" width="18%" />
 <img src="docs/images/toy_example/fig_2.png" width="18%" />
 <img src="docs/images/toy_example/fig_3.png" width="18%" />
 <img src="docs/images/toy_example/fig_4.png" width="18%" />
 <img src="docs/images/toy_example/fig_5.png" width="18%" />
-</p>
-
-
-<div style="display: flex; justify-content: center;">
-    <div style="width: 19.2%;">
-        <img src="docs/images/toy_example/fig_1.png"/>
-        <br>
-        <span>(a)</span>
-    </div>
-    <div style="width: 19.2%;">
-        <img src="docs/images/toy_example/fig_2.png"/>
-        <br>
-        <span>(b)</span>
-    </div>
-    <div style="width: 19.2%;">
-        <img src="docs/images/toy_example/fig_3.png"/>
-        <br>
-        <span>(c)</span>
-    </div>
-    <div style="width: 19.2%;">
-        <img src="docs/images/toy_example/fig_4.png"/>
-        <br>
-        <span>(d)</span>
-    </div>
-    <div style="width: 19.2%;">
-        <img src="docs/images/toy_example/fig_5.png"/>
-        <br>
-        <span>(e)</span>
-    </div>
 </div>
+
 
 Simplified example of binary classification with only two features showing the AdverSPAM operation. 
 (a) The decision boundary (blue line) separates spammers (circles) from genuine users (triangles). The goal of the attack is to project one chosen spammer sample (red) into the opposite region by crossing the decision boundary. 
