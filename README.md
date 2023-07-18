@@ -24,28 +24,28 @@ AdverSPAM follows the general structure of query-limited setting black-box attac
 
 
 <div style="display: flex; justify-content: center;">
-    <div>
-        <img src="docs/images/toy_example/fig_1.png" style="width: 19.2%;"/>
+    <div style="width: 19.2%;">
+        <img src="docs/images/toy_example/fig_1.png"/>
         <br>
         <span>(a)</span>
     </div>
-    <div>
-        <img src="docs/images/toy_example/fig_2.png" style="width: 19.2%;"/>
+    <div style="width: 19.2%;">
+        <img src="docs/images/toy_example/fig_2.png"/>
         <br>
         <span>(b)</span>
     </div>
-    <div>
-        <img src="docs/images/toy_example/fig_3.png" style="width: 19.2%;"/>
+    <div style="width: 19.2%;">
+        <img src="docs/images/toy_example/fig_3.png"/>
         <br>
         <span>(c)</span>
     </div>
-    <div>
-        <img src="docs/images/toy_example/fig_4.png" style="width: 19.2%;"/>
+    <div style="width: 19.2%;">
+        <img src="docs/images/toy_example/fig_4.png"/>
         <br>
         <span>(d)</span>
     </div>
-    <div>
-        <img src="docs/images/toy_example/fig_5.png" style="width: 19.2%;"/>
+    <div style="width: 19.2%;">
+        <img src="docs/images/toy_example/fig_5.png"/>
         <br>
         <span>(e)</span>
     </div>
