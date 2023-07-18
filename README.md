@@ -16,7 +16,7 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 ## *Background* 
 
 <div>
-    <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf" alt=""/>
+    <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf"/>
 </div>
 
 <div>
@@ -30,27 +30,27 @@ AdverSPAM follows the general structure of query-limited setting black-box attac
 
 <div style="display: flex; justify-content: center;">
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_1.pdf" alt="" style="width: 19.2%;"/>
+        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_1.pdf" style="width: 19.2%;"/>
         <br>
         <span>(a)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_2.pdf" alt="" style="width: 19.2%;"/>
+        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_2.pdf" style="width: 19.2%;"/>
         <br>
         <span>(b)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_3.pdf" alt="" style="width: 19.2%;"/>
+        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_3.pdf" style="width: 19.2%;"/>
         <br>
         <span>(c)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_4.pdf" alt="" style="width: 19.2%;"/>
+        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_4.pdf" style="width: 19.2%;"/>
         <br>
         <span>(d)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_5.pdf" alt="" style="width: 19.2%;"/>
+        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_5.pdf" style="width: 19.2%;"/>
         <br>
         <span>(e)</span>
     </div>
