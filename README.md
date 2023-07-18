@@ -23,20 +23,12 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 AdverSPAM follows the general structure of query-limited setting black-box attack adversarial attacks.
 
 
-<div>
-<img src="docs/images/toy_example/fig_1.png" width="18%" />
-<img src="docs/images/toy_example/fig_2.png" width="18%" />
-<img src="docs/images/toy_example/fig_3.png" width="18%" />
-<img src="docs/images/toy_example/fig_4.png" width="18%" />
-<img src="docs/images/toy_example/fig_5.png" width="18%" />
-</div>
-
 <div style="display: flex">
-<div style="width: 18%; text-align: center">(a)</div>
-<div style="width: 18%; text-align: center">(b)</div>
-<div style="width: 18%; text-align: center">(c)</div>
-<div style="width: 18%; text-align: center">(d)</div>
-<div style="width: 18%; text-align: center">(e)</div>
+<div style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_1.png"/> (a)</div>
+<div style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_2.png"/> (b)</div>
+<div style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_3.png"/> (c)</div>
+<div style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_4.png"/> (d)</div>
+<div style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_5.png"/> (e)</div>
 </div>
 
 
