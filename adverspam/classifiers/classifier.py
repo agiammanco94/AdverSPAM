@@ -46,6 +46,7 @@ class Classifier:
         results_path = self.get_trained_models_path()
         dataset_path = f'{results_path}/{dataset_name}'
         misc_util.create_dir(dataset_path)
+        # this string can be instantiated by replacing 'all' with the name of the subset of adopted features
         dataset_path = f'{dataset_path}/all'
         misc_util.create_dir(dataset_path)
         if 'training_set_hash' in kwargs:
