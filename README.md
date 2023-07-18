@@ -15,6 +15,10 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 
 ## *Background* 
 
+<p align="center">
+<img src="docs/images/attack_scenario.pdf" width="400" />
+</p>
+
 ![Attack Scenario](https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf)
 
 <div>
