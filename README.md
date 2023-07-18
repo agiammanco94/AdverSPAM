@@ -15,48 +15,37 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 
 ## *Background* 
 
-<p align="center">
-<img src="docs/images/attack_scenario.pdf" width="400" />
-</p>
 
-![Attack Scenario](https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf)
+![Attack Scenario](docs/images/attack_scenario.png)
 
-<div>
-    <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf"/>
-</div>
 
-<div>
-<p align="center">
-<img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf" width="480" height="360" border="0"/>
-</p>
-</div>
 
 AdverSPAM follows the general structure of query-limited setting black-box attack adversarial attacks.
 
 
 <div style="display: flex; justify-content: center;">
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_1.pdf" style="width: 19.2%;"/>
+        <img src="docs/images/toy_example/fig_1.png" style="width: 19.2%;"/>
         <br>
         <span>(a)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_2.pdf" style="width: 19.2%;"/>
+        <img src="docs/images/toy_example/fig_2.png" style="width: 19.2%;"/>
         <br>
         <span>(b)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_3.pdf" style="width: 19.2%;"/>
+        <img src="docs/images/toy_example/fig_3.png" style="width: 19.2%;"/>
         <br>
         <span>(c)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_4.pdf" style="width: 19.2%;"/>
+        <img src="docs/images/toy_example/fig_4.png" style="width: 19.2%;"/>
         <br>
         <span>(d)</span>
     </div>
     <div>
-        <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/toy_example/fig_5.pdf" style="width: 19.2%;"/>
+        <img src="docs/images/toy_example/fig_5.png" style="width: 19.2%;"/>
         <br>
         <span>(e)</span>
     </div>
