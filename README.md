@@ -15,6 +15,8 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 
 ## *Background* 
 
+![Attack Scenario](https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf)
+
 <div>
     <img src="https://github.com/agiammanco94/AdverSPAM/blob/main/docs/images/attack_scenario.pdf"/>
 </div>
