@@ -23,28 +23,12 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 AdverSPAM follows the general structure of query-limited setting black-box attack adversarial attacks.
 
 
-<div style="display: flex">
-<p style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_1.png"/> (a)</p>
-<p style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_2.png"/> (b)</p>
-<p style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_3.png"/> (c)</p>
-<p style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_4.png"/> (d)</p>
-<p style="width: 18%; text-align: center"><img src="docs/images/toy_example/fig_5.png"/> (e)</p>
-</div>
-
-
 <div align="center">
   <img src="docs/images/toy_example/fig_1.png" width="18%"/>
   <img src="docs/images/toy_example/fig_2.png" width="18%"/>
   <img src="docs/images/toy_example/fig_3.png" width="18%"/>
   <img src="docs/images/toy_example/fig_4.png" width="18%"/>
   <img src="docs/images/toy_example/fig_5.png" width="18%"/>
-</div>
-<div align="center">
-  <p style="width: 18%; text-align: center; display: inline-block;">(a)</p>
-  <p style="width: 18%; text-align: center; display: inline-block;">(b)</p>
-  <p style="width: 18%; text-align: center; display: inline-block;">(c)</p>
-  <p style="width: 18%; text-align: center; display: inline-block;">(d)</p>
-  <p style="width: 18%; text-align: center; display: inline-block;">(e)</p>
 </div>
 
 
