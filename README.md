@@ -7,7 +7,12 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 ## *Background* 
 
 
-![Attack Scenario](docs/images/attack_scenario.png)
+
+<div>
+<p align="center">
+<img src="docs/images/attack_scenario.png" width="480" height="360" border="0"/>
+</p>
+</div>
 
 
 
