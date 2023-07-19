@@ -1,15 +1,6 @@
 **AdverSPAM: Adversarial SPam Account Manipulation in Online Social Networks**
 ==========================================================
 
-- [Background](#Background)
-- [Setup](#Setup)
-- [Tested-Systems](#Tested-Systems)
-- [Requirements](#Requirements)
-  - [Soft-Dependencies](#Soft-Dependencies)
-- [Documentation](#Documentation)
-- [License](#License)
-- [BibTeX-Citation](#BibTeX-Citation)
-
 AdverSPAM is an Adversarial Machine Learning attack aiming at preserving statistical correlations and semantic dependences among features.
 It has been thought for operating in a Spammer Account detection scenario in Online Social Networks, however, it can be generalized to other scenarios as well.
 
