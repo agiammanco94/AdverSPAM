@@ -14,13 +14,9 @@ It has been thought for operating in a Spammer Account detection scenario in Onl
 AdverSPAM follows the general structure of query-limited setting black-box attack adversarial attacks.
 
 
-<div align="center">
-  <img src="docs/images/toy_example/fig_1.png" width="18%"/>
-  <img src="docs/images/toy_example/fig_2.png" width="18%"/>
-  <img src="docs/images/toy_example/fig_3.png" width="18%"/>
-  <img src="docs/images/toy_example/fig_4.png" width="18%"/>
-  <img src="docs/images/toy_example/fig_5.png" width="18%"/>
-</div>
+|  ![a](docs/images/toy_example/fig_1.png)  |  ![b](docs/images/toy_example/fig_2.png)  | ![c](docs/images/toy_example/fig_3.png) | ![d](docs/images/toy_example/fig_4.png) | ![e](docs/images/toy_example/fig_5.png) | 
+|:-----------------------------------------:|:-----------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+|                    (a)                    |                    (b)                    |                   (c)                   | (d) | (e) |
 
 
 Simplified example of binary classification with only two features showing the AdverSPAM operation. 
