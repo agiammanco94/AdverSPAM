@@ -5,7 +5,7 @@ from scipy.stats import linregress
 from scipy.optimize import minimize, LinearConstraint
 import pandas as pd
 import numpy as np
-from typing import List, Tuple
+from typing import List, Tuple, Union
 import adverspam.classifiers.classifier as classifier
 from adverspam.utilities.adverspam_utilities import project_point_on_line, new_adverspam_distance, \
     estimating_psi_margin_beyond_decision_boundary
@@ -22,7 +22,7 @@ def adverspam_attack(surrogate_model: classifier.Classifier,
                      blocks_of_semantic_dependent_features: List[List[str]],
                      correction_for_correlation_constraints: float = 0,
                      lambda_param: float = 0.5,
-                     return_statistics: bool = False) -> Tuple[np.ndarray, pd.DataFrame]:
+                     return_statistics: bool = False) -> Union[Tuple[np.ndarray, pd.DataFrame], np.ndarray]:
     """
         Params:
             surrogate_model: A Classifier object representing the surrogate model for crafting the adversarial examples.
