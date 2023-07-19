@@ -16,14 +16,19 @@ AdverSPAM follows the general structure of query-limited setting black-box attac
 
 |  ![a](docs/images/toy_example/fig_1.png)  |  ![b](docs/images/toy_example/fig_2.png)  | ![c](docs/images/toy_example/fig_3.png) | ![d](docs/images/toy_example/fig_4.png) | ![e](docs/images/toy_example/fig_5.png) | 
 |:-----------------------------------------:|:-----------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|                    (a)                    |                    (b)                    |                   (c)                   | (d) | (e) |
+|                    (a)                    |                    (b)                    |                   (c)                   |                   (d)                   |                   (e)                   |
 
 
 Simplified example of binary classification with only two features showing the AdverSPAM operation. 
+
 (a) The decision boundary (blue line) separates spammers (circles) from genuine users (triangles). The goal of the attack is to project one chosen spammer sample (red) into the opposite region by crossing the decision boundary. 
+
 (b) The adversarial sample must be generated within a certain distance (dashed blue line) from the decision boundary, which depends on a parameter $`\psi`$. 
+
 (c) The regression line (black) provides a good approximation of the correlation between the spammer samples. 
+
 (d) In order to preserve the nature of the input, the feasible region (yellow area) for the adversarial sample is further constrained by a margin around the regression line. 
+
 (e) The adversarial sample (green triangle) is finally computed by solving the optimisation problem within the feasible region.
 
 ## *Setup*
