@@ -40,11 +40,11 @@ AdverSPAM follows the general structure of query-limited setting black-box attac
   <img src="docs/images/toy_example/fig_5.png" width="18%"/>
 </div>
 <div align="center">
-  <p style="display:inline-block; width: 18%; text-align:center">(a)</p>
-  <p style="display:inline-block; width: 18%; text-align:center">(b)</p>
-  <p style="display:inline-block; width: 18%; text-align:center">(c)</p>
-  <p style="display:inline-block; width: 18%; text-align:center">(d)</p>
-  <p style="display:inline-block; width: 18%; text-align:center">(e)</p>
+  <p style="width: 18%; text-align: center; display: inline-block;">(a)</p>
+  <p style="width: 18%; text-align: center; display: inline-block;">(b)</p>
+  <p style="width: 18%; text-align: center; display: inline-block;">(c)</p>
+  <p style="width: 18%; text-align: center; display: inline-block;">(d)</p>
+  <p style="width: 18%; text-align: center; display: inline-block;">(e)</p>
 </div>
 
 
