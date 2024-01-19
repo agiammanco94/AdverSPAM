@@ -87,19 +87,5 @@ The project is licensed under the [BSD 3-Clause license](https://github.com/agia
 If you use adverspam in your research, we would appreciate a citation to the following paper ([bibtex](/docs/references/Adverspam_bibitem.bib))
 
 ```
-@article{AdverSPAM2024, 
-author = {Federico Concone, and Salvatore Gaglio, and Andrea Giammanco, and Giuseppe {Lo Re}, and Marco Morana}, 
-title = {AdverSPAM: Adversarial SPam Account Manipulation in
-Online Social Networks}, 
-year = {2024}, 
-publisher = {Association for Computing Machinery}, 
-address = {New York, NY, USA}, 
-issn = {}, 
-url = {}, 
-doi = {}, 
-abstract = {In recent years, the widespread adoption of Machine Learning (ML) at the core of complex IT systems has driven researchers to investigate the security and reliability of ML techniques. A very specific kind of threats concerns the adversary mechanisms through which an attacker could induce a classification algorithm to provide the desired output. Such strategies, known as Adversarial Machine Learning (AML), have a twofold purpose: to calculate a perturbation to be applied to the classifier's input such that the outcome is subverted, while maintaining the underlying intent of the original data. Although any manipulation that accomplishes these goals is theoretically acceptable, in real scenarios perturbations must correspond to a set of permissible manipulations of the input, which is rarely considered in the literature. In this paper, we present AdverSPAM, an AML technique designed to fool the spam account detection system of an Online Social Network (OSN). The proposed black-box evasion attack is formulated as an optimisation problem that computes the adversarial sample while maintaining two important properties of the feature space, namely statistical correlation and semantic dependency. Although being demonstrated in an OSN security scenario, such an approach might be applied in other context where the aim is to perturb data described by mutually related features. Experiments conducted on a public dataset show the effectiveness of AdverSPAM compared to five state-of-the-art competitors, even in the presence of adversarial defence mechanisms.}, 
-journal = {ACM Trans. Priv. Secur.}, 
-month = {}, 
-keywords = {adversarial machine learning, spammer detection, online social networks, evasion attacks} 
-}
+@article{}
 ```
